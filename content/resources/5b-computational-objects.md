@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '5B: Computational Objects'
 uid: db6c4639-d0f0-726a-0831-3f8ef7c1b992
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Instructors:** Hal Abelson and Gerald Jay Sussman
 
 Subtitles for this course are provided through the generous assistance of Henry Baker, Hoofar Pourzand, Heather Wood, Aleksejs Truhans, Steven Edwards, George Menhorn, and Mahendra Kumar.
+

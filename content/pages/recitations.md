@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This course is divided into recitation sections of about 30 to 35 students
+  which meet twice per week. The purpose of the recitations is to expand upon course
+  materials covered in lecture and the  supplementary materials and allow students
+  to practice working with the material in an interactive setting. Recitations are
+  the primary source of interaction with the staff. Below is a sampling of the material
+  covered during recitations.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/2fb7874c262b32016f3635d8143326ff_DrFkf-T-6Co.pdf
+file: /media/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/2fb7874c262b32016f3635d8143326ff_DrFkf-T-6Co.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

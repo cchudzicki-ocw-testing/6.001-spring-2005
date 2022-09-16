@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Syllabus contains course objectives and expected outcomes, learning objectives,
+  and general information about lectures, recitations, tutorials, assignments, grades,
+  policy on collaborative work, and programming laboratory.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

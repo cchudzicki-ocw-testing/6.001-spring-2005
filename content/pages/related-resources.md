@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The related resources provides information on interactive lectures and
+  on-line exercises using XTutor System.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

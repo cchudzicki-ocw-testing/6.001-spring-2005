@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Tools provides information on scheme documentation for the course. It
+  contains the following topics: Don''t Panic: an introductory guide to the 6.001
+  computer system, Guide to MIT scheme, and revised (5) report on the algorithmic
+  language scheme.'
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes contains the online lectures for the course, which are
+  expected to be read by students in preparation for recitation sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

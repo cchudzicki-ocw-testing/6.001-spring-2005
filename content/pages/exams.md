@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Exams provides information on exams held during the course with their
+  solutions to test the student's understanding of the course material.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
